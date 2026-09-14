@@ -1,7 +1,7 @@
 {
     "name": "peer-filter-c00295678",
 	"private": true,
-	"version": "0.1.2",
+	"version": "0.1.1",
 	"type": "module",
 	"exports": {
 		".": "./P1/src/lib/filters/diff.ts"
