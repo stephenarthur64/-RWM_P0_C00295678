@@ -2,3 +2,4 @@
 export * from './filters/cube';
 export * from './filters/diff';
 //export * from 'peer-filter-c00294680';
+export * from './filters/combined/combined'
